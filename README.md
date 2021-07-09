@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shubahm-kourav
-- 🌱 I’m currently learning automation
 - 📫 How to reach me ... Shubham.kourav@rishabhsoft.com
 
 <!---
