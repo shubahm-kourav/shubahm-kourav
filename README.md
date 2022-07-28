@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhm-kourav
+- 👋 Hi, I’m @shubahm-kourav
 - 📫 How to reach me ... Shubham.kourav@rishabhsoft.com
 
 <!---
